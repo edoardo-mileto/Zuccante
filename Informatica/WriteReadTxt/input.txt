@@ -1,2 +1,2 @@
-Questo e un file di prova
-Contiente dodici parole ed due righe
+File di prova
+contiente 9 parole e 2 linee

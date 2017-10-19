@@ -1,0 +1,2 @@
+Parole: 9
+Righe: 2
