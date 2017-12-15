@@ -1,4 +1,4 @@
-/*import sl02.ListaConcatenata;
+import sl02.ListaConcatenata;
 public class AlberoBinarioDiRicerca<T> extends AlberoBinario {
     private AlberoBinarioDiRicerca ABDR;
 
@@ -82,4 +82,3 @@ public class AlberoBinarioDiRicerca<T> extends AlberoBinario {
         return res;
     }
 }
-*/
