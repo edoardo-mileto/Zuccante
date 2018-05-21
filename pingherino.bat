@@ -1,0 +1,5 @@
+@ECHO OFF
+:PINGINTERVAL
+ping 8.8.8.8 -n 1
+timeout 10
+GOTO PINGINTERVAL
