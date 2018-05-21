@@ -13,7 +13,7 @@ import javafx.collections.ObservableList;
 
 /**
  *
- * @author Sergio
+ * @author Edocs
  */
 public class Pop3Client {
 
