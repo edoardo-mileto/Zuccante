@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author simone.bolzonella
+ * @author Edocs
  */
 public class POP3 extends Application {
 	
